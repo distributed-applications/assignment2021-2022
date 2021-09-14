@@ -43,6 +43,9 @@ Enkele voorbeelden:
 * Auction house systeem
   * Distributed Elixir voor realtime updates en notificaties
   * Pub/Sub voor inventory management / mail notifications
+* Game server / manager / tracker
+  * Distributed Elixir/Erlang voor spellen te tracken (in bijv. een toernooi). Inclusief load balancing over nodes.
+  * Pub/Sub voor scores te communiceren naar mensen met interesse naar een bep. game.
 * ... Nog een idee? Maak een PR!
 
 **Requirements**:
