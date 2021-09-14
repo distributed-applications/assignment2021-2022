@@ -46,6 +46,9 @@ Enkele voorbeelden:
 * Game server / manager / tracker
   * Distributed Elixir/Erlang voor spellen te tracken (in bijv. een toernooi). Inclusief load balancing over nodes.
   * Pub/Sub voor scores te communiceren naar mensen met interesse naar een bep. game.
+* Zip parser van medische data
+  * Distributed Elixir voor snel jobs te accepten, propageren door cluster en failover processen te configureren.
+  * Pub/Sub voor queueing mechanisme
 * ... Nog een idee? Maak een PR!
 
 **Requirements**:
