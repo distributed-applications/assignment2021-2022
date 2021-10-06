@@ -9,7 +9,7 @@ Taken
   * Deadline 06 Oktober
 * Topic Distributed Applicatie
   * Start 22 September
-  * Deadline 13 Oktober
+  * Deadline ~~13~~ 20 Oktober
 * Schets OTP applicatie (monolith-ish design = ok)
   * Start 13 Oktober
   * Deadline 10 November
