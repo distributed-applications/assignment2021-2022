@@ -18,6 +18,8 @@ Taken
 * Eindpresentatie
   * Deadline 23:59 CEST 14 Augustus 2022
 
+GitHub Classroom link: [https://classroom.github.com/a/k1glHUXH](https://classroom.github.com/a/k1glHUXH)
+
 ## Taken
 
 ### Groepsgenoot kiezen
