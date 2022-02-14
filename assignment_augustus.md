@@ -7,7 +7,7 @@ Taken
 * Groepsgenoot kiezen + Topic Distributed Applicatie
   * Contactmoment: 1 Maart [link appointmentplanner](https://appointmentplanner.ucll.be/happening/iBSjl8GF)
   * Contactmoment: 1 Juli [link appointmentplanner](https://appointmentplanner.ucll.be/happening/YmjIyum8)
-  * Excel [link]()
+  * Excel [link](https://ucll-my.sharepoint.com/:x:/g/personal/u0124976_ucll_be/EYl4gnJTj9ZAvAr3NpoJ1EgBtQ4L86Vs20v3JlDKECnWNg)
   * Deadline: 2 Juli
 * Schets OTP applicatie (monolith-ish design = ok)
   * Deadline bij eindpresentatie
