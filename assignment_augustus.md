@@ -16,7 +16,7 @@ Taken
 * Uitbreiding
   * Deadline bij eindpresentatie
 * Eindpresentatie
-  * Deadline 8 December
+  * Deadline 23:59 CEST 14 Augustus 2022
 
 ## Taken
 
